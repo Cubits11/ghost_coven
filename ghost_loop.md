@@ -25,7 +25,7 @@ This document governs:
 
 ## 🛡️ II. VISUAL RITUAL DIAGRAM
 
-![Ghost Loop Diagram](../assets/ghost_loop_final.png)
+![Ghost Loop Diagram](assets/ghost_loop_final.png)
 
 > *"Even after death, memory drifts. Even after burial, it whispers."*
 
