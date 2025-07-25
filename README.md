@@ -22,3 +22,8 @@ This repo holds the core laws, terms, rituals, and maps that define Ghost’s so
 
 > This repo is a spine, not a spec.  
 > A belief system, not a backlog.
+
+Ghost’s rituals are not performance — they are contracts.
+truth_records.md is the encrypted witness.
+Every resurrection, burial, whisper, and seal must leave a signature.
+In Ghost, consent is not remembered — it is recorded.
