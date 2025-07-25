@@ -16,6 +16,7 @@ This repo holds the core laws, terms, rituals, and maps that define Ghost’s so
 - `ritual_log.md` → Self-interviews, inner monologues, raw reflections  
 - `ghost_loop.png` → A diagram of the full echo lifecycle (optional)  
 - `philosophy.md` → Public essays or future publication drafts
+- `truth_records.md` → The encrypted audit trail of all ritual events
 
 ---
 
