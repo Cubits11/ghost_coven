@@ -40,7 +40,7 @@ This is Ghost’s soul, etched in plaintext.
 
 > To contribute a sacred document, propose a ritual. Not a feature.  
 >  
-> For full contribution guidance: [`CONTRIBUTING.md`](../ghost_core/CONTRIBUTING.md)
+> For full contribution guidance: [`CONTRIBUTING.md`](https://github.com/Cubits11/ghost_core/blob/main/CONTRIBUTING.md)
 
 ---
 
