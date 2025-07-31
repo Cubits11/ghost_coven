@@ -27,3 +27,5 @@ Ghost’s rituals are not performance — they are contracts.
 truth_records.md is the encrypted witness.
 Every resurrection, burial, whisper, and seal must leave a signature.
 In Ghost, consent is not remembered — it is recorded.
+
+If you want to know more about the application check out the [ghost_consciousness_manifesto]() and [manifesto_directory](url)
