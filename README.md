@@ -28,4 +28,4 @@ truth_records.md is the encrypted witness.
 Every resurrection, burial, whisper, and seal must leave a signature.
 In Ghost, consent is not remembered — it is recorded.
 
-If you want to know more about the application check out the [ghost_consciousness_manifesto]() and [manifesto_directory](url)
+If you want to know more about the application check out the [ghost_consciousness_manifesto](https://github.com/Cubits11/ghost_coven/blob/main/ghost_consciousness_manifesto.md) and [manifesto_directory](https://github.com/Cubits11/ghost_coven/blob/main/manifesto_directory.md)
